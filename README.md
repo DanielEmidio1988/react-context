@@ -4,6 +4,8 @@
 
 Este projeto foi desenvolvido para prática de React Context. O objetivo é renderizar um Card conforme informações armazenadas na API Labenusers.
 
+[Clique aqui para acessar](http://react-context-pi.vercel.app/)
+
 ## 📄 Descrição
 Para a implementação do projeto, foram solicitados os seguintes requisitos pela Labenu:
 
